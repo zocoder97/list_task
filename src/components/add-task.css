@@ -1,0 +1,19 @@
+.add-task{
+    display: flex;
+    height: 50px;
+    gap: 1rem;
+    box-shadow: 2px 2px 2px 2px rgba(43, 39, 39,.5);
+    width: max-content;
+    align-items: center;
+    padding: 0 1rem;
+    border-radius: 4px;
+    margin-bottom: 1.5rem;
+}
+
+.add-task input{
+    width: 250px;
+    height: 40px;
+}
+.add-task button{
+    height: 40px;
+}
